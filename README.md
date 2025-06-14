@@ -32,5 +32,4 @@ This project presents a detailed sales analysis of Blinkit retail data using Pyt
 
 ---
 
-## 📁 Folder Structure
 
